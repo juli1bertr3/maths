@@ -1,0 +1,106 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-size: 15px;
+	background: url("https://newcastlebeach.org/images/2-2-6.jpg");
+	background-size: cover;
+	background-position: fixed;
+	margin: auto;
+}
+
+
+h1{
+	color: red;
+	margin: 100px auto;
+	width: 80%;
+	font-family: impact;
+}
+
+#menu{
+	margin-top: 0px;
+	line-height: 30px;
+	height: 100px;
+	background-color: lightblue;
+	border-bottom: red groove 7px;
+	display: inline-block;
+	width: 100%; 
+}
+
+#menu1{
+	font-family: garamond;
+	margin-top: 8px;
+	border: 5px inset grey; 
+	background-color: white;
+	width: 20%;
+
+}
+
+#menu2{
+	font-family: garamond;
+	border: inset 5px green;
+	margin-top: 8px;
+	background-color: lightgreen;
+	width: 20%;
+}
+
+#menu3{
+	font-family: garamond;
+	border: gold inset 5px;
+	margin-top: 8px;
+	background-color: yellow;
+	width: 20%;
+}
+
+.float1 {
+  float: left;
+  width: 20%;
+}
+.float2 {
+  float: left;
+  width: 20%;
+}
+.float3 {
+  float: left;
+  width: 20%;
+}
+.float4 {
+  float: left;
+  width: 20%;
+}.float5 {
+  float: left;
+  width: 20%;
+}
+
+.float6 {
+  float: left;
+  width: 20%;
+}
+#espace1{
+	margin-top: 8px;
+	width: 5%;
+}
+#espace2{
+	margin-top: 8px;
+	width: 5%;
+}
+#espace3{
+	margin-top: 8px;
+	width: 15%;
+}
+#menu4 {
+   margin-top: 15px;
+   width:70px;
+   background-color: green;
+   background-image: ("https://www.ensemblepourlesanimaux.org/wp-content/uploads/2018/03/2018-03-21_1816.png");
+   border-top-left-radius: 60px;
+   border-top-right-radius: 60px;
+   border-bottom-right-radius: 60px;
+   border-bottom-left-radius: 60px;
+}
+.float6 {
+  float: left;
+  width: 20%;
+}.float7 {
+  float: left;
+  width: 20%;
+}
